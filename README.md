@@ -1,0 +1,2 @@
+bzrflag_client
+==============
